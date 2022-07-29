@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "needle",
+		"player1": "bf",
+		"player2": "Needlemouse",
+		"player3": null,
+		"events": [
+			[
+				161702.102803738,
+				[
+					[
+						"hide hud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				161775.70093458,
+				[
+					[
+						"BlackOut",
+						"true",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 107,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Round-a-bout"
+	}
+}
