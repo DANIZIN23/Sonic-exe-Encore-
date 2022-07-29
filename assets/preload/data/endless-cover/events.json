@@ -1,0 +1,189 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "sonicfunStage",
+		"player1": "tails",
+		"player2": "sonicexe",
+		"player3": null,
+		"events": [
+			[
+				161806.451612903,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"dad"
+					]
+				]
+			],
+			[
+				161903.225806452,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				162000,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"dad"
+					]
+				]
+			],
+			[
+				162096.774193548,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				162193.548387097,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"dad"
+					]
+				]
+			],
+			[
+				162290.322580645,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				162387.096774194,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"dad"
+					]
+				]
+			],
+			[
+				162483.870967742,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				162580.64516129,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"dad"
+					]
+				]
+			],
+			[
+				162677.419354839,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				162774.193548387,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"dad"
+					]
+				]
+			],
+			[
+				162870.967741935,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				162967.741935484,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"dad"
+					]
+				]
+			],
+			[
+				163064.516129032,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				163161.290322581,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"dad"
+					]
+				]
+			],
+			[
+				163258.064516129,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				163354.838709677,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 155,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "endless"
+	}
+}
