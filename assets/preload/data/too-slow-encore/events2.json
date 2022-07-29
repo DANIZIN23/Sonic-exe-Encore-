@@ -1,0 +1,851 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "sonicStage",
+		"player1": "bf",
+		"player2": "SONICNEW",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"hide hud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13800,
+				[
+					[
+						"return hud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14250,
+				[
+					[
+						"Spoopy Scare",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28050,
+				[
+					[
+						"Spoopy Scare",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42750,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				42900,
+				[
+					[
+						"Change Character",
+						"dad",
+						"SONICEXENEW"
+					]
+				]
+			],
+			[
+				44250,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				44400,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				44550,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				44700,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				44850,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				45000,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				45150,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				45300,
+				[
+					[
+						"Screen Shake",
+						"1. 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				45450,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				46800,
+				[
+					[
+						"Spoopy Scare",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58200,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				60600,
+				[
+					[
+						"Spoopy Scare",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70200,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				71550,
+				[
+					[
+						"Spoopy Scare",
+						"",
+						""
+					]
+				]
+			],
+			[
+				81750,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				82800,
+				[
+					[
+						"Spoopy Scare",
+						"",
+						""
+					]
+				]
+			],
+			[
+				88050,
+				[
+					[
+						"Spoopy Scare",
+						"",
+						""
+					]
+				]
+			],
+			[
+				92895,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				93037.5,
+				[
+					[
+						"hide hud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93150,
+				[
+					[
+						"Play Animation",
+						"god",
+						"Dad"
+					]
+				]
+			],
+			[
+				97950,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				98100,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				98250,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				98400,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				98550,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				98700,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				100500,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				100650,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				100800,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				100950,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				101100,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				101250,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				101400,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				101550,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				101700,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				101850,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				102150,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				102300,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				102450,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				102600,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				102750,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				102900,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				103050,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				103200,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				103350,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				103500,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				103650,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				103950,
+				[
+					[
+						"return hud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				104100,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				104250,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					]
+				]
+			],
+			[
+				105150,
+				[
+					[
+						"Spoopy Scare",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116550,
+				[
+					[
+						"Spoopy Scare",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135300,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"dad"
+					]
+				]
+			],
+			[
+				135450,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				135600,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"dad"
+					]
+				]
+			],
+			[
+				135750,
+				[
+					[
+						"Screen Shake",
+						"1, 0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				135900,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"dad"
+					]
+				]
+			],
+			[
+				136050,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				136200,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"dad"
+					]
+				]
+			],
+			[
+				136350,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				136500,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				136650,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"Dad"
+					]
+				]
+			],
+			[
+				136800,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				142200,
+				[
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				144750,
+				[
+					[
+						"Spoopy Scare",
+						"",
+						""
+					]
+				]
+			],
+			[
+				150450,
+				[
+					[
+						"Spoopy Scare",
+						"",
+						""
+					]
+				]
+			],
+			[
+				155550,
+				[
+					[
+						"Spoopy Scare",
+						"",
+						""
+					]
+				]
+			],
+			[
+				162000,
+				[
+					[
+						"Spoopy Scare",
+						"",
+						""
+					]
+				]
+			],
+			[
+				166350,
+				[
+					[
+						"Spoopy Scare",
+						"",
+						""
+					]
+				]
+			],
+			[
+				172500,
+				[
+					[
+						"Spoopy Scare",
+						"",
+						""
+					]
+				]
+			],
+			[
+				174090,
+				[
+					[
+						"Red Flash Camera",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				174150,
+				[
+					[
+						"Note Fade",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				175350,
+				[
+					[
+						"Note Fade",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				176250,
+				[
+					[
+						"hide hud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				177300,
+				[
+					[
+						"BlackOut",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				180000,
+				[
+					[
+						"Spoopy Scare",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-reni",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "too slow encore"
+	}
+}
