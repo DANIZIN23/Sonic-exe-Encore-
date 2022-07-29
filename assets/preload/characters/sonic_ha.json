@@ -1,0 +1,222 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Laugh1"
+		},
+		{
+			"offsets": [
+				-8,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Laugh2"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				97
+			],
+			"anim": "notbad",
+			"fps": 24,
+			"name": "ExtraLife NotBad",
+			"indices": []
+		},
+		{
+			"offsets": [
+				90,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ugly",
+			"indices": [],
+			"name": "ExtraLife Ugly"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				93
+			],
+			"anim": "ugly2",
+			"fps": 24,
+			"name": "ExtraLife ugly2",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54
+			]
+		},
+		{
+			"offsets": [
+				354,
+				658
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "finale",
+			"indices": [],
+			"name": "ExtraLife Final"
+		},
+		{
+			"offsets": [
+				58,
+				115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "scream",
+			"indices": [],
+			"name": "sonicImmagetya"
+		},
+		{
+			"offsets": [
+				44,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "enough",
+			"indices": [],
+			"name": "SONIClaugh"
+		},
+		{
+			"offsets": [
+				-21,
+				134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EXE_assets down"
+		},
+		{
+			"offsets": [
+				-5,
+				135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EXE_assets left"
+		},
+		{
+			"offsets": [
+				-10,
+				128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EXE_assets right"
+		},
+		{
+			"offsets": [
+				-26,
+				118
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jumpscare_assets up"
+		},
+		{
+			"offsets": [
+				-25,
+				119
+			],
+			"loop": false,
+			"fps": 1,
+			"anim": "idle",
+			"indices": [],
+			"name": "jumpscare_assets idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/jumpscare_assets",
+	"position": [
+		70,
+		280
+	],
+	"healthicon": "sonic.exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		88,
+		183
+	],
+	"camera_position": [
+		-30,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

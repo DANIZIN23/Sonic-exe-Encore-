@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "morreu"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/deadgui",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gui",
+	"flip_x": false,
+	"healthbar_colors": [
+		212,
+		216,
+		217
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

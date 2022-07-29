@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				348
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "xeno Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				338
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "xeno Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				338
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "xeno Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				344
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "xeno Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				335
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "xeno Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				80,
+				348
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ha",
+			"indices": [],
+			"name": "xeno Laugh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				348
+			],
+			"anim": "god",
+			"fps": 24,
+			"name": "xeno ImmaGetcha",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonicEXEnew_Assets",
+	"position": [
+		-110,
+		120
+	],
+	"healthicon": "sonicexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		89,
+		183
+	],
+	"camera_position": [
+		-140,
+		-170
+	],
+	"sing_duration": 5.8,
+	"scale": 1
+}

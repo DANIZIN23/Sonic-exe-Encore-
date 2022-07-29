@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "normal_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				-40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "normal_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "normal_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "normal_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				-93
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "normal_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				342,
+				170
+			],
+			"anim": "god",
+			"fps": 24,
+			"name": "scream",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-120
+			],
+			"anim": "ha",
+			"fps": 24,
+			"name": "laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/YCR_XENO_UPDATED",
+	"position": [
+		0,
+		-250
+	],
+	"healthicon": "sonicP2",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		0,
+		97
+	],
+	"camera_position": [
+		-10,
+		0
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

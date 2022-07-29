@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SONICFUNIDLE instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-257
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SONICFUNDOWN instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				-135
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SONICFUNUP instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				-193
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SONICFUNRIGHT instance"
+		},
+		{
+			"offsets": [
+				241,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SONICFUNLEFT instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/majin",
+	"position": [
+		-100,
+		-300
+	],
+	"healthicon": "SonicFun",
+	"flip_x": false,
+	"healthbar_colors": [
+		2,
+		2,
+		154
+	],
+	"camera_position": [
+		90,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
