@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"endless encore",
+			"SonicFun",
+			[
+				0,
+				33,
+				253
+			]
+		],
+		[
+			"cycles encore",
+			"lordx",
+			[
+				95,
+				80,
+				115
+			]
+		],
+		[
+			"sunshine encore",
+			"tailsdoll",
+			[
+				255,
+				213,
+				0
+			]
+		],
+		[
+			"milk encore",
+			"sunky",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"chaos encore",
+			"supersonic",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Encore",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

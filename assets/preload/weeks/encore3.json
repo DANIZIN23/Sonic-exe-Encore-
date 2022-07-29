@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"faker encore",
+			"faker",
+			[
+				0,
+				20,
+				133
+			]
+		],
+		[
+			"black sun encore",
+			"exe",
+			[
+				60,
+				20,
+				133
+			]
+		],
+		[
+			"too fest encore",
+			"sanic",
+			[
+				0,
+				20,
+				133
+			]
+		],
+		[
+			"fate",
+			"lordx",
+			[
+				66,
+				93,
+				93
+			]
+		],
+		[
+			"round a bout",
+			"mouse",
+			[
+				100,
+				0,
+				133
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Encore,Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

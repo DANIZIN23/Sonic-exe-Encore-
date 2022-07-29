@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"too slow encore",
+			"sonicexe",
+			[
+				0,
+				93,
+				255
+			]
+		],
+		[
+			"you cant run encore",
+			"sonicP2",
+			[
+				0,
+				0,
+				115
+			]
+		],
+		[
+			"triple trouble encore",
+			"beast",
+			[
+				80,
+				0,
+				140
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "exe",
+	"difficulties": "Encore",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "im god hahahah",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
