@@ -1,0 +1,11 @@
+function onCreate()
+	precacheImage('red')
+	precacheImage('hitStatic')
+	precacheImage('shadow')
+	precacheImage('characters/Beast')
+	precacheImage('characters/BFPhase3_Perspective_Flipped')
+	precacheImage('characters/BF')
+	precacheImage('characters/Pixel_gf')
+	precacheImage('characters/Sonic_EXE_Pixel')
+	precacheImage('SonicP2/greenhillsbiggggg')
+end
